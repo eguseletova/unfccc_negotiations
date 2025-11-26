@@ -1,1 +1,1 @@
-# emailgame
+The full code and sample data will be available by the end of the week.
